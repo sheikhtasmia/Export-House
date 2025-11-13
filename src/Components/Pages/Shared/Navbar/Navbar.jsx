@@ -10,8 +10,7 @@ const Navbar = () => {
     const [scrolled, setScrolled] = useState(false);
 
     const socialLinks = [
-        { name: "Facebook", icon: <FaFacebookF />, url: "#" },
-        { name: "Twitter", icon: <FaTwitter />, url: "#" },
+        { name: "Facebook", icon: <FaFacebookF />, url: "https://www.facebook.com/share/1HEgkij9tZ/?mibextid=wwXIfr" },
         { name: "Instagram", icon: <FaInstagram />, url: "#" },
         { name: "LinkedIn", icon: <FaLinkedinIn />, url: "#" },
     ];
