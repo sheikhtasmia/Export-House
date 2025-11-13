@@ -36,17 +36,17 @@ const Footer = () => {
                             <li className="flex items-start">
                                 <MapPin className="w-5 h-5 mr-3 mt-1 text-blue-500 flex-shrink-0" />
                                 <span>
-                                    Unit 4B, XYZ Industrial Park, <br />
-                                    Dhaka, Bangladesh 1205
+                                    Uttara Sector #14 Road #14 House #05 <br />
+                                    Dhaka, Bangladesh
                                 </span>
                             </li>
                             <li className="flex items-center">
                                 <Phone className="w-5 h-5 mr-3 text-blue-500 flex-shrink-0" />
-                                <a href="tel:+8801700000000" className="hover:text-white transition duration-200">+880 1700 000 000</a>
+                                <a href="tel:+8801728-350605" className="hover:text-white transition duration-200">+880 1700 000 000</a>
                             </li>
                             <li className="flex items-center">
                                 <Mail className="w-5 h-5 mr-3 text-blue-500 flex-shrink-0" />
-                                <a href="mailto:info@exporthousebd.com" className="hover:text-white transition duration-200">info@exporthousebd.com</a>
+                                <a href="bdmarkin20@gmail.com" className="hover:text-white transition duration-200">info@exporthousebd.com</a>
                             </li>
                         </ul>
                     </div>
@@ -58,7 +58,7 @@ const Footer = () => {
 
                         {/* Social Icons */}
                         <div className="flex space-x-4 mb-6">
-                            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500 transition duration-200">
+                            <a href="https://www.facebook.com/share/1HEgkij9tZ/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500 transition duration-200">
                                 <Facebook className="w-7 h-7" />
                             </a>
                             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-500 transition duration-200">
